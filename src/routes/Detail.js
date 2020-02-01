@@ -46,7 +46,7 @@ const Subtitle = styled.h4`
 `;
 
 const Description = styled.p`
-  font-size: 28px;
+  font-size: 27x;
 `;
 
 const Poster = styled.div`
